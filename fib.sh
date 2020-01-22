@@ -23,3 +23,12 @@ do
     b=$fn 
 done
 # End of for loop 
+
+'''
+OUPUT:
+Enter N
+4
+The Fibonacci series is : 
+0 1 1 2 
+
+'''

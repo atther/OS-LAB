@@ -1,4 +1,4 @@
-echo "Enter size(N)"
+echo "Enter total Number"
 read N
 
 i=1
@@ -12,4 +12,17 @@ do
   i=$((i + 1))
 done
 
-echo "sum: ,$sum"
+echo "sum: $sum"
+
+'''
+OUTPUT:
+Enter total Number
+4
+Enter Numbers
+1
+2
+3
+4
+sum: 10
+
+'''

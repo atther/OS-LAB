@@ -10,3 +10,16 @@ do
 
 done
 echo "SUM:" $sum
+
+'''
+OUPUT:
+Enter total Number
+4
+Enter Numbers
+1
+2
+3
+4
+sum: 10
+
+'''
